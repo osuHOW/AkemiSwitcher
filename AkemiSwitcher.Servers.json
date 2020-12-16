@@ -19,10 +19,6 @@
         "newTarget": "71.12.125.40"
       },
       {
-        "host": "ce.ppy.sh",
-        "newTarget": "71.12.125.40"
-      },
-      {
         "host": "c4.ppy.sh",
         "newTarget": "71.12.125.40"
       },
@@ -32,6 +28,10 @@
       },
       {
         "host": "c6.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "ce.ppy.sh",
         "newTarget": "71.12.125.40"
       },
       {
