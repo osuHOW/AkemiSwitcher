@@ -1,0 +1,63 @@
+{
+  "target": "AkemiSwitcher",
+  "data": {
+    "servers": [
+      {
+        "host": "c.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "c1.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "c2.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "c3.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "ce.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "c4.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "c5.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "c6.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "a.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "s.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "delta.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "osu.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "i.ppy.sh",
+        "newTarget": "71.12.125.40"
+      },
+      {
+        "host": "bm6.ppy.sh",
+        "newTarget": "71.12.125.40"
+      }
+    ]
+  }
+}
