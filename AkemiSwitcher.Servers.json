@@ -3,7 +3,7 @@
   "data": {
     "servers": [
       {
-        "host": "c321.ppy.sh",
+        "host": "c.ppy.sh",
         "newTarget": "71.12.125.40"
       },
       {
